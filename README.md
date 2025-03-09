@@ -1,6 +1,6 @@
 # Market-basket-Analysis
 
-![Logo](./images/1.png)
+![Logo](./images/1.PNG)
 
 ![Logo](./images/2.png)
 
