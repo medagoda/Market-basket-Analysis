@@ -2,8 +2,8 @@
 
 ![Logo](./images/1.PNG)
 
-![Logo](./images/2.png)
+![Logo](./images/2.PNG)
 
-![Logo](./images/3.png)
+![Logo](./images/3.PNG)
 
-![Logo](./images/4.png)
+![Logo](./images/4.PNG)
